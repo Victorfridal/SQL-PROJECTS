@@ -1,7 +1,7 @@
 # Exploratory Data Analysis on Covid19 Dataset Using SQL
 
-* Data Source : [OurWorldinData]
-* Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Data Source:** [OurWorldinData](https://ourworldindata.org/covid-vaccinations)
+- **Skills used:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 ## Analysis Looked at:
 
 * Total cases vs Total Death per country
