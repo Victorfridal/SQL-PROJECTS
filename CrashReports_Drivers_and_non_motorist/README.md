@@ -1,5 +1,4 @@
 # CRASH REPORT ANALYTICS
-
 ## OVERVIEW
 
 These analyses provide valuable insights for understanding the patterns and factors contributing to car crashes and non-motorist incidents in different municipalities. The results can be used to identify areas for improvement in road safety measures, enforcement, and infrastructure planning.
